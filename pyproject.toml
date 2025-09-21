@@ -17,5 +17,6 @@ dependencies = [
     "pytest>=8.4.2",
     "ruff>=0.13.1",
     "seaborn>=0.13.2",
+    "statsmodels>=0.14.5",
     "ty>=0.0.1a21",
 ]
